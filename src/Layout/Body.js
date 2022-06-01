@@ -1,5 +1,5 @@
 import React from "react";
-import Welder from "../assets/welder.svg";
+import Welder from "../assets/spark2.gif";
 import Line1 from "../assets/Line1.svg";
 import Line2 from "../assets/Line2.svg";
 
